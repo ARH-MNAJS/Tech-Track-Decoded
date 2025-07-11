@@ -1,8 +1,10 @@
-# AI-Powered Career Tools Suite: Streamlit & Flask Projects
-
-This repository contains two fully functional, practical, and educational AI-powered web applications designed to help students and professionals analyze and improve their career profiles. Both apps are built using Python frameworks with a strong focus on usability, real-world relevance, and minimal dependencies.
-
----
+<p align="center">
+  <img src="assets/8eef13b2-b8e6-4584-8078-3bff3ddd1c59.jpg" alt="SkillScore.AI & LinkScope.AI Banner" width="100%" />
+</p>
+<h1 align="center" style="color:#0B5394;">Tech Track Decoded | AI-ML Track</h1>
+<p align="center">
+  <i>This repository features two hands-on, real-world AI-driven applications built using Python</i>
+</p>
 
 ## 📦 Project 1: SkillScore.AI (Built with Streamlit)
 
