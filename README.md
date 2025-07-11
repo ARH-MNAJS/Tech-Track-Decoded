@@ -19,6 +19,14 @@ A smart and simple **skill assessment and roadmap generator** designed for stude
 - Option to download a personalized PDF roadmap
 - Fully deployable via Streamlit Cloud
 
+### 🧠 Key Technologies
+- Streamlit – Python web framework for building interactive apps quickly
+- Plotly / Matplotlib – For generating dynamic visualizations like radar and bar charts
+- Pandas – Used to process user inputs and apply scoring logic on skillsets
+- Custom Python Logic – For evaluating skill depth and generating roadmaps
+- PDFKit or ReportLab – To generate downloadable personalized learning roadmaps in PDF format
+- Streamlit Cloud – For quick deployment and sharing of the app with users
+
 ### 💡 Learning Outcomes
 - Introduction to Streamlit UI elements (forms, sliders, checkboxes)
 - Logic building for recommendations
@@ -47,11 +55,11 @@ A **LinkedIn Profile Analyzer** powered by a locally hosted LLM (via [Ollama](ht
 - Fully local setup — no external LLM APIs required
 
 ### 🧠 Key Technologies
-- Flask (Python web framework)
-- PyMuPDF or pdfminer.six for text extraction
-- Ollama LLM (e.g., LLaMA 3, Mistral, DeepSeek, Gemma)
-- Markdown rendering in templates
-- PDF generation with `pdfkit` or `reportlab`
+- Flask – Python web framework for routing, templating, and handling file uploads
+- PyMuPDF or pdfminer.six – For extracting clean text from exported LinkedIn PDF files
+- Ollama LLM – Runs local open-source language models like LLaMA 3, Mistral, DeepSeek, or Gemma for analysis
+- Markdown Rendering – To convert AI-generated markdown into styled HTML within the app
+- PDFKit or ReportLab – To generate downloadable improvement reports in PDF format
 
 ### 💡 Learning Outcomes
 - Flask project structure and route handling
