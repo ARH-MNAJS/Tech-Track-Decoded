@@ -15,22 +15,20 @@ A smart and simple **skill assessment and roadmap generator** designed for stude
 - Interactive form for entering known skills and confidence levels
 - Smart scoring system to evaluate readiness for career paths like Web Dev, Data Science, DevOps, etc.
 - Dynamic roadmap and suggestions based on inputs
-- Visualization of skill scores using radar or bar charts
-- Option to download a personalized PDF roadmap
+- Visualization of skill scores using radar charts
 - Fully deployable via Streamlit Cloud
 
 ### 🧠 Key Technologies
 - Streamlit – Python web framework for building interactive apps quickly
-- Plotly / Matplotlib – For generating dynamic visualizations like radar and bar charts
+- Plotly – For generating dynamic visualizations like radar charts
 - Pandas – Used to process user inputs and apply scoring logic on skillsets
 - Custom Python Logic – For evaluating skill depth and generating roadmaps
-- PDFKit or ReportLab – To generate downloadable personalized learning roadmaps in PDF format
 - Streamlit Cloud – For quick deployment and sharing of the app with users
 
 ### 💡 Learning Outcomes
-- Introduction to Streamlit UI elements (forms, sliders, checkboxes)
+- Introduction to Streamlit UI elements (forms, sliders, buttons)
 - Logic building for recommendations
-- Visualizations with Python libraries like Plotly or Matplotlib
+- Visualizations with Python libraries like Plotly
 - PDF export capability
 - End-to-end deployment and hosting
 
